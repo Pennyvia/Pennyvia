@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there am @Pennyvia
+###🌱 I’m currently learning at University of Zimbabwe
+##👯 I’m looking to collaborate on  Machine learning and Artficial intelligence projects.
+##🤔 I’m looking for help with Deeo learning stuff.
 
 <!--
 **Pennyvia/Pennyvia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
